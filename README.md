@@ -40,6 +40,12 @@ CNN that classifies traffic signs, relevant to autonomous driving.
 
 ## Natural Language Processing
 
+### [NERbert: Fine-tuning BERT for NER](./NERbert)
+Colab notebook showing how to fine-tune BERT for Named Entity Recognition.
+- Tokenization and data formatting for BERT input
+- Training, evaluation and model saving
+- Easy to customize: entity types, hyperparameters, dataset
+
 ### [Named Entity Recognition (GMB)](./Named_Entity_Recognition)
 NER model trained on the Groningen Meaning Bank dataset.
 - Text preprocessing: token indexing and padding
